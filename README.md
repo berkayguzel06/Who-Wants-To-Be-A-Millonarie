@@ -1,6 +1,5 @@
-# Java-Projects
+# Who Wants to Be a Millionaire
 
-Project:  Who Wants to Be a Millionaire
 The aim of the project is to develop a software application for the "Who Wants to Be a Millionaire" competition. 
 
 General Information
